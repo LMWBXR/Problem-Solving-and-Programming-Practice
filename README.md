@@ -2,4 +2,4 @@
 C++ Coding Projects 
 
 
-These are my first coding projects with C++.  
+Basic coding projects with C++.  
